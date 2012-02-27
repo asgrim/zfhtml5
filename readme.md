@@ -13,3 +13,9 @@ This project is designed to be a basic HTML5 project using Zend Framework. It se
 * addOnLoad function
 * HTML5 doctype
 * html5shiv
+
+## Licenses
+
+* Zend Framework - [New BSD License](http://framework.zend.com/license)
+* Modernizr [MIT License](http://www.modernizr.com/license/)
+* Stuff that I added/contributed [MIT License](http://www.opensource.org/licenses/mit-license.php)
